@@ -173,6 +173,12 @@
       <td><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></td>
       <td><img src="https://img.shields.io/badge/-Delivered-555?style=flat-square" /></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/Vizualabs/Neyuki_Car_Rental"><strong>🚗 Neyuki Car Rental</strong></a><br/><sub>Modern responsive frontend simulating an online car rental service</sub></td>
+      <td><img src="https://img.shields.io/badge/-Web%20App-533483?style=flat-square" /></td>
+      <td><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></td>
+      <td><img src="https://img.shields.io/badge/-Delivered-555?style=flat-square" /></td>
+    </tr>
   </tbody>
 </table>
 
