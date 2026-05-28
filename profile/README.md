@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&text=VIZUALABS&subtitle=Software%20%26%20AI%20Solutions&fontSize=52&subFontSize=18&fontAlignY=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Vizualabs Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=cc0000&height=220&section=header&text=VIZUALABS&subtitle=Software%20%26%20AI%20Solutions&fontSize=52&subFontSize=18&fontAlignY=42&fontColor=ffffff&descAlignY=62&animation=twinkling" width="100%" alt="Vizualabs Banner" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software-Development-0f3460?style=for-the-badge&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-Solutions-533483?style=for-the-badge&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/Cloud-Infrastructure-16213e?style=for-the-badge&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/UI%2FUX-Design-e94560?style=for-the-badge&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/Software-Development-8b0000?style=for-the-badge&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Solutions-cc0000?style=for-the-badge&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/Cloud-Infrastructure-8b0000?style=for-the-badge&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/UI%2FUX-Design-cc0000?style=for-the-badge&labelColor=0a0a0a" />
 </p>
 
 <br/>
@@ -118,36 +118,60 @@
 <table>
   <thead>
     <tr>
-      <th width="60%">Project</th>
-      <th width="20%">Category</th>
-      <th width="20%">Status</th>
+      <th width="55%">Project</th>
+      <th width="15%">Type</th>
+      <th width="15%">Stack</th>
+      <th width="15%">Status</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/KodecHub/Vizualabs_Ticketing_Frontend"><strong>🎫 Vizualabs Ticketing System</strong></a><br/><sub>Internal support & ticketing platform</sub></td>
-      <td><img src="https://img.shields.io/badge/-Full%20Stack-533483?style=flat-square" /></td>
-      <td><img src="https://img.shields.io/badge/-Active-1a7a4a?style=flat-square" /></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/KodecHub/Dine-Mate-POS-backend"><strong>🍔 Dine-Mate POS</strong></a><br/><sub>Restaurant point-of-sale backend system</sub></td>
-      <td><img src="https://img.shields.io/badge/-Backend%20%2F%20POS-0f3460?style=flat-square" /></td>
-      <td><img src="https://img.shields.io/badge/-Active-1a7a4a?style=flat-square" /></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/KodecHub/majestic-homes-website"><strong>🏢 Majestic Homes</strong></a><br/><sub>Real estate business web platform</sub></td>
-      <td><img src="https://img.shields.io/badge/-Web%20Application-16213e?style=flat-square" /></td>
+      <td><a href="https://github.com/Vizualabs/Vizualabs_Ticketing_Frontend"><strong>🎫 Vizualabs Ticketing — Frontend</strong></a><br/><sub>Support & ticketing platform UI</sub></td>
+      <td><img src="https://img.shields.io/badge/-Frontend-16213e?style=flat-square" /></td>
+      <td><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /></td>
       <td><img src="https://img.shields.io/badge/-Delivered-555?style=flat-square" /></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/KodecHub/POS-System"><strong>🛒 POS System</strong></a><br/><sub>Retail point-of-sale software</sub></td>
-      <td><img src="https://img.shields.io/badge/-Software-533483?style=flat-square" /></td>
+      <td><a href="https://github.com/Vizualabs/Vizualabs_Tix_Man"><strong>🎫 Vizualabs Ticketing — Backend</strong></a><br/><sub>Support & ticketing platform API</sub></td>
+      <td><img src="https://img.shields.io/badge/-Backend-0f3460?style=flat-square" /></td>
+      <td><img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" /></td>
+      <td><img src="https://img.shields.io/badge/-Delivered-555?style=flat-square" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Vizualabs/POS-System"><strong>🛒 POS System — Frontend</strong></a><br/><sub>POS & restaurant management with dashboard, inventory, staff & accounting</sub></td>
+      <td><img src="https://img.shields.io/badge/-Frontend-16213e?style=flat-square" /></td>
+      <td><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /></td>
+      <td><img src="https://img.shields.io/badge/-Delivered-555?style=flat-square" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Vizualabs/POS-System-Backend"><strong>🛒 POS System — Backend</strong></a><br/><sub>RESTful APIs for orders, inventory, staff, CRM & analytics</sub></td>
+      <td><img src="https://img.shields.io/badge/-Backend-0f3460?style=flat-square" /></td>
+      <td><img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" /></td>
+      <td><img src="https://img.shields.io/badge/-Delivered-555?style=flat-square" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Vizualabs/Dine-Mate-POS-backend"><strong>🍔 Dine-Mate POS</strong></a><br/><sub>Restaurant point-of-sale backend system</sub></td>
+      <td><img src="https://img.shields.io/badge/-Backend-0f3460?style=flat-square" /></td>
+      <td><img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" /></td>
       <td><img src="https://img.shields.io/badge/-Active-1a7a4a?style=flat-square" /></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/KodecHub/CLCA"><strong>⚙️ CLCA</strong></a><br/><sub>Enterprise web application</sub></td>
-      <td><img src="https://img.shields.io/badge/-Web%20Application-16213e?style=flat-square" /></td>
-      <td><img src="https://img.shields.io/badge/-Active-1a7a4a?style=flat-square" /></td>
+      <td><a href="https://github.com/Vizualabs/majestic-homes-website"><strong>🏢 Majestic Homes</strong></a><br/><sub>Official web portfolio for Majestic Homes Architects & Builders</sub></td>
+      <td><img src="https://img.shields.io/badge/-Web%20App-533483?style=flat-square" /></td>
+      <td><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></td>
+      <td><img src="https://img.shields.io/badge/-Delivered-555?style=flat-square" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Vizualabs/CLCA"><strong>⚙️ CLCA</strong></a><br/><sub>Enterprise web application</sub></td>
+      <td><img src="https://img.shields.io/badge/-Web%20App-533483?style=flat-square" /></td>
+      <td><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></td>
+      <td><img src="https://img.shields.io/badge/-Delivered-555?style=flat-square" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Vizualabs/ceylo-cakes-website"><strong>🎂 Ceylo Cakes</strong></a><br/><sub>Modern responsive cake ordering storefront for a USA-based cake business</sub></td>
+      <td><img src="https://img.shields.io/badge/-Web%20App-533483?style=flat-square" /></td>
+      <td><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></td>
+      <td><img src="https://img.shields.io/badge/-Delivered-555?style=flat-square" /></td>
     </tr>
   </tbody>
 </table>
@@ -173,5 +197,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=120&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a0000,50:1a0a0a,100:0a0a0a&height=120&section=footer" width="100%" alt="Footer" />
 </p>
